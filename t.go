@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("test fork 1")
 	fmt.Println("test fork 2")
 	fmt.Println("test fork 3")
+	fmt.Println("test fork 4")
 }
